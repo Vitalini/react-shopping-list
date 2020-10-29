@@ -7,10 +7,7 @@
     "type": "git",
     "url": "https://github.com/Vitalini/react-shopping-list.git"
   },
-  "author": {
-    "name": "Vitali Borovik",
-    "email": "2556969@gmail.com"
-  },
+  "author": "Vitali Borovik",
   "license": "MIT",
   "private": true,
   "engines": {
